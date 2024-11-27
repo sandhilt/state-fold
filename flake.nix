@@ -34,6 +34,9 @@
               rustc
               protobuf
               libz
+              gdb
+              cargo-expand
+              cargo-watch
             ];
             RUST_SRC_PATH = rustPlatform.rustLibSrc;
           };
