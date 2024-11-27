@@ -63,7 +63,7 @@ cargo fmt --all
 
 ## Documentation
 
-* [Cartesi Rollups Rollout — State Fold @ Mediun](https://medium.com/cartesi/state-fold-cfe5f4d79639)
+* [Cartesi Rollups Rollout — State Fold @ Medium](https://medium.com/cartesi/state-fold-cfe5f4d79639)
 
 ## License
 
